@@ -1,7 +1,5 @@
 # Hi, I'm Martin Marchionni! 👋
 
-**Software Developer | Creating Innovative SaaS Solutions**
-
 ---
 
 ## About Me 🚀
