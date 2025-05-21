@@ -1,7 +1,6 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQElew0idmVkbw/profile-displaybackgroundimage-shrink_350_1400/B4DZa_gsCcG0AY-/0/1746969740248?e=1753315200&v=beta&t=_Xt_w-bTSMbNHizthT0t6w2n6-uFuxVF3hXnkMqXhtc)
-
-
 # Hi, I'm Martin Marchionni! 👋
+
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQElew0idmVkbw/profile-displaybackgroundimage-shrink_350_1400/B4DZa_gsCcG0AY-/0/1746969740248?e=1753315200&v=beta&t=_Xt_w-bTSMbNHizthT0t6w2n6-uFuxVF3hXnkMqXhtc)
 
 ---
 
