@@ -6,24 +6,22 @@
 
 ## About Me 🚀
 
-I am a passionate software developer currently focused on creating innovative SaaS solutions. With a strong foundation in **Next.js, Node.js, and MongoDB**, I have the capability to develop and iterate on any application, solving complex problems efficiently and effectively.
-
-### 🎓 Education & Background
-- **ICT Analyst Student** at *Universidad Nacional de La Plata* (UNLP), Argentina.
-  - I have passed 15 out of 24 subjects, demonstrating significant progress in the career.
-- **Full Stack Developer** with advanced knowledge gained through the **FullStackOpen** course (2024).
-- **Web Development** expertise honed through the **Odin Project** (2023), focusing on HTML, CSS, JavaScript, and Git.
+Full Stack Engineer specialized in building scalable SaaS products with a strong focus on extreme performance, accessibility, and modern user experience. Skilled in **Next.js, NestJS, PostgreSQL, Prisma, MongoDB, Tailwind CSS**, and AI integration to deliver real-world, global solutions.
 
 ### 📈 Professional Experience
-- **SEO Blogs:** Created over **200 blogs** across various projects, applying advanced SEO techniques to attract qualified traffic and enhance online visibility.
-- **TalkSmart:** Developed a chat application offering instant translation and contextual explanation with AI. This project utilizes cutting-edge technologies like **Next.js, React, Tailwind CSS, Node.js, Express, MongoDB, Next-Auth, Next-intl, Cloudflare, Socket.io**, and **Popperjs**.
+- **PLIAZ:** Led full-stack architecture and development of a decentralized platform with smart contracts, optimizing performance and scalability.
+- **TalkSmart:** Developed a chat app with real-time AI-powered translation and explanation, improving performance (Lighthouse 100%), SEO, and stability with automated testing.
+- **Trackiify:** Implemented an AI-powered WhatsApp bot for routine tracking, integrating a scalable backend and an interactive admin panel.
+- **SwaplyAr:** Translated designs into dynamic, high-fidelity UI/UX experiences with internationalization and scalable components, collaborating closely with designers.
 
-### 🛠️ Technologies & Tools
-- **Programming Languages:** JavaScript, TypeScript, HTML, CSS
-- **Front-end:** React, Next.js, Tailwind CSS
-- **Back-end:** Node.js, Express
-- **Databases:** MongoDB, SQL, NoSQL
-- **Tools:** Notion, Git, Next-Auth, Cloudflare, Socket.io
+### 🛠️ Technologies & Tools  
+- **Languages:** TypeScript, JavaScript, HTML, CSS  
+- **Frontend:** Next.js, React, React Native, Tailwind CSS, Vue, Nuxt, Svelte, Astro  
+- **Backend:** NestJS, Node.js, Express  
+- **Databases:** PostgreSQL, MongoDB  
+- **DevOps & Testing:** Playwright, GitHub Actions, Docker, Redis, CI/CD  
+- **Integrations:** Web3, WhatsApp Bot (Baileys, Whatsapp-webjs), Paddle, Cloudflare  
+- **Others:** Notion, Jira, Slack, ClickUp, Socket.io, GSAP
 
 ### 🎯 What I'm Looking For
 I'm actively seeking opportunities where I can contribute my skills to create innovative solutions and continue my growth as a developer. I am eager to adapt, learn, and provide value to any team I join.
