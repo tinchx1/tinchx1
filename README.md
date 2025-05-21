@@ -9,7 +9,7 @@
 Full Stack Engineer specialized in building scalable SaaS products with a strong focus on extreme performance, accessibility, and modern user experience. Skilled in **Next.js, NestJS, PostgreSQL, Prisma, MongoDB, Tailwind CSS**, and AI integration to deliver real-world, global solutions.
 
 ### 📈 Professional Experience
-- **PLIAZ:** Led full-stack architecture and development of a decentralized platform with smart contracts, optimizing performance and scalability.
+- **PLIAZ:** Full Stack Blockchain Engineer - Currently.
 - **TalkSmart:** Developed a chat app with real-time AI-powered translation and explanation, improving performance (Lighthouse 100%), SEO, and stability with automated testing.
 - **Trackiify:** Implemented an AI-powered WhatsApp bot for routine tracking, integrating a scalable backend and an interactive admin panel.
 - **SwaplyAr:** Translated designs into dynamic, high-fidelity UI/UX experiences with internationalization and scalable components, collaborating closely with designers.
@@ -22,10 +22,6 @@ Full Stack Engineer specialized in building scalable SaaS products with a strong
 - **DevOps & Testing:** Playwright, GitHub Actions, Docker, Redis, CI/CD  
 - **Integrations:** Web3, WhatsApp Bot (Baileys, Whatsapp-webjs), Paddle, Cloudflare  
 - **Others:** Notion, Jira, Slack, ClickUp, Socket.io, GSAP
-
-### 🎯 What I'm Looking For
-I'm actively seeking opportunities where I can contribute my skills to create innovative solutions and continue my growth as a developer. I am eager to adapt, learn, and provide value to any team I join.
-
 ---
 
 ## Let's Connect! 📬
@@ -33,5 +29,3 @@ I'm actively seeking opportunities where I can contribute my skills to create in
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/martin-marchionni-16104127a/)
 - **Portfolio:** [Check out my work](https://portafolio-martin-marchionni.vercel.app/)
 - **GitHub:** [View my repositories](https://github.com/tinchx1)
-
-Looking forward to connecting and collaborating on exciting projects!
